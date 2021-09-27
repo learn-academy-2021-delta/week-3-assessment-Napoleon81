@@ -9,59 +9,58 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is `this` in JavaScript?
 
-  Your answer:
+  Your answer:`This` is keyword in JavaScript that labels the object executing a function.
 
-  Researched answer:
+  Researched answer: `This` is keyword in JavaScript that references the object executing a function
 
 
 
 2. What is React? Why would you use it?
 
-  Your answer:
+  Your answer: React is a JavaScript library used to build interactive applications.
 
-  Researched answer:
+  Researched answer:React is a JavaScript library used to build interactive and modern applications.
 
 
 
 3. Which lifecycle method is required in a React class component?
 
-  Your answer:
+  Your answer:Render is the lifecycle method required in a React component.
 
-  Researched answer:
+  Researched answer:Render is the only lifecycle method required in a React component
 
 
 
 4. What is JSX? What is one notable difference between HTML and JSX?
 
-  Your answer:
-
-  Researched answer:
+  Your answer: JSX is a hybrid of JavaScript and HTML. One notable difference between HTML and JSX is that in HTML allows some tags to remain open.
+  Researched answer:SX is a hybrid of JavaScript and HTML. One notable difference between HTML and JSX is that in HTML allows for some unclosed tags.
 
 
 
 5. What is yarn? What file(s) are modified in a React application when you run yarn?
 
-  Your answer:
+  Your answer: Yarn is a package manager in JavaScript that keeps track and modifies bad files.
 
-  Researched answer:
+  Researched answer:Yarn is a package manager in JavaScript that keeps track and modifies node files.
 
 
 
 6. STRETCH: What is an anonymous function in JavaScript?
 
-  Your answer:
+  Your answer: An anonymous function does not have a name.
 
-  Researched answer:
+  Researched answer: An anonymous function is a function with no name.
 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Conditional rendering:
+1. Conditional rendering:the ability to render different user interface markup if a condition is true or false.
 
-2. Props:
+2. Props: keyword in React used for passing data from one component to another
 
 3. JavaScript Events:
 
-4. Object oriented programming:
+4. Object oriented programming: A programming paradigm that relies on the concepts of classes and objects
 
-5. Ruby:
+5. Ruby:an elegant and dynamic , open source programming language
