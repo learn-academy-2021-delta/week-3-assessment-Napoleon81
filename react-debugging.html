@@ -66,21 +66,22 @@
           <div>
               <h1>Draw a Card</h1>
         <div>
-              <button> onClick={drawCard}>
-                return Cards and Draw Card
-              <button />
-              <button> onClick={shuffle}>
-                return Cards and Shuffle Deck
-              <button />
-              <div> style={handStyles}>
+              <button> onClick={this.drawCard}>
+                click and Draw Card
+              </button>
+              <button> onClick={this.shuffle}>
+                Return Cards and Shuffle Deck
+              </button>
+              <div style={handStyles}>
                 {this.state.hand.map((card,index) => {
                   return (
-                    <div> style={cardStyles} key={index}>
+                    <div style={cardStyles} key={index}>
                       {card}
-                    <div>
+                    </div>
                   )
                 })}
               </div>
+              </>
           )
         }
       }
