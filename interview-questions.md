@@ -34,7 +34,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 4. What is JSX? What is one notable difference between HTML and JSX?
 
   Your answer: JSX is a hybrid of JavaScript and HTML. One notable difference between HTML and JSX is that in HTML allows some tags to remain open.
-  Researched answer:SX is a hybrid of JavaScript and HTML. One notable difference between HTML and JSX is that in HTML allows for some unclosed tags.
+  Researched answer:JSX is a hybrid of JavaScript and HTML. One notable difference between HTML and JSX is that in HTML allows for some unclosed tags like html ,head ,body, p dt,dd
 
 
 
@@ -42,13 +42,13 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Yarn is a package manager in JavaScript that keeps track and modifies bad files.
 
-  Researched answer:Yarn is a package manager in JavaScript that keeps track and modifies node files.
+  Researched answer:Yarn (yet another resource negotiator)is a package manager in JavaScript that keeps track and modifies node files.
 
 
 
 6. STRETCH: What is an anonymous function in JavaScript?
 
-  Your answer: An anonymous function does not have a name.
+  Your answer: An anonymous function does not have a name. function(), ()=>{}
 
   Researched answer: An anonymous function is a function with no name.
 
@@ -59,7 +59,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 2. Props: keyword in React used for passing data from one component to another
 
-3. JavaScript Events:
+3. JavaScript Events: JS has events that provide a dynamic interface connected to the DOM.
 
 4. Object oriented programming: A programming paradigm that relies on the concepts of classes and objects
 
